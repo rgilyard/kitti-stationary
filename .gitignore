@@ -1,3 +1,6 @@
 *.zip
 data/
 stationary_data/
+stationary_kitti_format_data/
+*.bin
+*.png
